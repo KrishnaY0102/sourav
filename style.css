@@ -2,3 +2,8 @@ h1{
     font-size: 80px;
     color: red;
 }
+ul{
+    text-align: center;
+
+}
+li{display: inline-block;}
