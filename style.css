@@ -1,9 +1,11 @@
 h1{
     font-size: 80px;
     color: red;
+    background-color: aqua;
 }
 ul{
     text-align: center;
 
 }
-li{display: inline-block;}
+li{display: inline-block;
+}
