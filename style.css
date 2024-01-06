@@ -9,3 +9,8 @@ ul{
 }
 li{display: inline-block;
 }
+
+.main h1{
+    color: red;
+    font-size: 25px;
+}
